@@ -6,7 +6,7 @@ import { NgModule } from '@angular/core';
 //import{NgxPaginationModule}from'ngx-pagination';//importing ng2-pagination for Paginatiton
 
 import{AppComponent,}from'./app.component';
-import{LoginComponent}from'./login/login.component';
+import{LoginComponent}from'./Login/login.component';
 
 
 import{CommonModule}from'@angular/common';
